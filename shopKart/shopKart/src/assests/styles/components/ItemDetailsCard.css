@@ -1,0 +1,26 @@
+.item-details-card {
+  margin: 2rem;
+  padding: 0;
+  border: 1px solid lightgray;
+  max-height: 25rem;
+}
+
+.item-details-card .card-heading {
+  background-color: dodgerblue;
+  font-weight: 700;
+  border-bottom: 1px solid lightgray;
+  width: 100%;
+  color: lightgray;
+}
+
+.item-details-card .l-position-middle {
+  width: 90%;
+}
+
+.item-details-card .btn-primary {
+  margin-right: 0.5rem;
+}
+
+.item-details-card img.l-position-middle {
+  width: 90%;
+}

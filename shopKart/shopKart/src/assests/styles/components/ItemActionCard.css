@@ -1,0 +1,23 @@
+.item-action-card img {
+  border: 1px solid lightgray;
+  padding: 1rem;
+}
+
+.item-action-card .btn-container {
+  line-height: 4;
+  border-left: 1px solid lightgray;
+  padding-left: 2rem;
+}
+
+.item-action-card .btn-container button, .item-action-card .btn-container a {
+  width: 100%;
+  color: #ffffff;
+}
+.item-action-card .item-description {
+  line-height: 3;
+}
+
+.item-action-card .item-description span:last-child {
+  font-size: 1.25rem;
+  border-top: 1px solid lightgray;
+}

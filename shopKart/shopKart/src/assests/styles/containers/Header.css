@@ -1,0 +1,51 @@
+.header {
+  background-color: #10bcab;
+  padding: 0 1.5rem;
+  box-shadow: 0 0.625rem 0.75rem 0 rgba(0,0,0,.23);
+}
+
+.header .welcome-text {
+  font-weight: 700;
+  font-size: 16px;
+  padding: 0 10px;
+}
+
+.header .l-position-middle {
+  width: 60%;
+}
+
+.header .fas {
+  color: #0c7feb;
+}
+
+.header a {
+  padding-top: 0.875rem;  
+}
+
+/* .header a:hover {
+  font-size: 18px;
+  transition: 0.2s;
+} */
+
+.header table {
+  display: none;
+  width: 20%;
+  position: absolute;
+  z-index: 3;
+  left: 300px;
+  top: 70px;
+  background-color: lightblue;
+  padding-bottom: 0;
+}
+
+.header .no-items-added {
+  display: none;
+}
+
+.header ul {
+  margin-right: 0;
+}
+
+.header .sign-out-link {
+  line-height: 1.6;
+}

@@ -1,0 +1,23 @@
+.aside-nav-bar {
+  margin-left: 1.5rem;
+}
+
+.aside-nav-bar li{
+  border: 1px solid lightgray;
+}
+
+.aside-nav-bar a{
+  color: black;
+  font-size: 1.25rem;
+}
+
+.aside-nav-bar a:hover {
+  color: lightgray;
+}
+
+.aside-nav-bar li:first-child {
+  margin-top: 2rem;
+  background-color: lightgray;
+  font-size: 1.25rem;
+  font-weight: 600;
+}

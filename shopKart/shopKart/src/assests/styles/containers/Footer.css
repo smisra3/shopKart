@@ -1,0 +1,29 @@
+footer {
+  background-color: #3f3f3f;
+  width: 100%;
+  padding: 1rem 0.5rem; 
+  font-size: 14px;
+  position: absolute;
+  bottom: 0;
+}
+
+footer ul {
+  margin-left: 4rem;
+}
+
+footer ul:nth-child(2) {
+  margin-left: 7rem;
+}
+
+footer a:link, footer p {
+  color: #b5b5b5;
+}
+
+footer a:hover {
+  color: #e2e2e2;
+}
+
+footer p {
+  width: 30%;
+  float: right;
+}

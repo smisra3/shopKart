@@ -1,0 +1,42 @@
+.cart-detail {
+  width: 90%;
+  margin-top: 2rem;
+}
+
+.cart-detail table {
+  border: 1px solid lightgray;
+  margin-top: 3rem;
+}
+
+.cart-detail table thead tr {
+  background-color: cadetblue;
+}
+
+.cart-detail table th  {
+  font-size: 1.25rem;
+}
+
+.cart-detail .btn-container p {
+  font-size: 1.25rem;
+}
+
+.cart-detail table tbody tr:nth-child(even) {
+  background-color: lightgray;
+}
+
+.cart-detail > p {
+  font-size: 2rem;
+  padding: 5rem 0;
+}
+
+.cart-detail .btn-container {
+  line-height: 3;
+}
+
+.cart-detail button, .cart-detail a {
+  width: 40%;
+}
+
+.cart-detail .btn-container button:nth-child(n+1), .cart-detail .btn-container a {
+  margin-top: 1rem;
+}

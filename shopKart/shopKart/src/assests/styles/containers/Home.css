@@ -1,0 +1,19 @@
+.home {
+  margin: 0 1rem;
+}
+
+.home .product-card {
+  font-size: 0.8rem;
+  text-align: center;
+  border: 1px solid lightgray;
+  padding: 1rem;
+}
+
+.home .product-card p:first-child {
+  font-size: 1.5rem;
+}
+
+.home div:first-child {
+  width: 100%;
+  margin: 1rem auto;
+}

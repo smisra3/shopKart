@@ -1,0 +1,10 @@
+.sign-in-form {
+  width: 30%;
+  padding: 11.3% 0;
+}
+
+.sign-in-form label {
+  font-weight: 700;
+  display: block;
+  margin: 0;
+}

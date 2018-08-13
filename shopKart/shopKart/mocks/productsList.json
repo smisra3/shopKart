@@ -1,0 +1,16 @@
+{
+  "productItemList": [
+    { "heading": "French Bread", "imgSource": "//cdn.grofers.com/app/images/products/full_screen/pro_385221.jpg", "price": "45", "itemDescription": "Great eaten fresh from oven. Used to make subs, sandwiches, etc.."
+    },
+    { "heading": "Amul Milk", "imgSource": "https://www.bigbasket.com/media/uploads/p/m/1200166_2-amul-taaza-toned-milk.jpg", "price": "50", "itemDescription": "Amul Taazas Toned Milk is one such product that is made for the health conscious consumer."
+    },
+    { "heading": "Go Milk", "imgSource": "https://www.bigbasket.com/media/uploads/p/m/40053404_2-go-supremo-milk.jpg", "price": "55", "itemDescription": "It is a ful cream cow milk contains 3.5% Fats."
+    },
+    { "heading": "Alepa Milk", "imgSource": "https://www.bigbasket.com/media/uploads/p/m/40125300_1-alepa-milk-farm-fresh.jpg", "price": "52", "itemDescription": "Alepa Farm Fresh Milk is rich in calcium and protein, which makes it a healthy drink to have along with breakfast, especially for children."
+    },
+    { "heading": "Value Offer", "imgSource": "https://www.bigbasket.com/media/uploads/p/m/1204354_1-fresho-bread-whole-wheat-chemical-free-400g-eggs-regular-6pcs.jpg", "price": "68", "itemDescription": "Fresho Bread - Whole Wheat, Chemical Free 400G + Eggs - Regular 6pcs, Combo"
+    },
+    { "heading": "Mother Dairy Curd", "imgSource": "https://www.bigbasket.com/media/uploads/p/m/40004532_6-mother-dairy-dahi-made-from-toned-milk.jpg", "price": "40", "itemDescription": "Mother Dairy Dahi Cup 100% Natural is a luscious, smooth and well set curd which gives you the flavor of Homemade curd with no the hassles of setting curd at home."
+    }
+  ]
+}
